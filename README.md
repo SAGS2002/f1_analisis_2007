@@ -1,4 +1,3 @@
-# f1_analisis_2007
 # 🏎️ Proyecto "El Último Baile del V8": Análisis del Campeonato F1 2007
 
 Un estudio profundo de la temporada más dramática del deporte, donde un punto lo decidió todo y **el copiloto invisible ayudó con los cálculos**.
